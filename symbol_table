@@ -1,0 +1,72 @@
+Start-keyword
+{-delimiter
+a-identifier
+=-assignment operator
+4-constant
+;-symbol
+b-identifier
+=-assignment operator
+a-identifier
+**-operator
+*-operator
+2-constant
++-operator
+6-constant
+*-operator
+2-constant
+--operator
+5-constant
+/-operator
+3-constant
+;-symbol
+c-identifier
+=-assignment operator
+//-operator
+/-operator
+b-identifier
+;-symbol
+if-keyword
+(-delimiter
+c-identifier
+is-keyword
+Int-keyword
+)-delimiter
+{-delimiter
+print-keyword
+(-delimiter
+c-identifier
+)-delimiter
+;-symbol
+}-delimiter
+else-keyword
+{-delimiter
+d-identifier
+=-assignment operator
+>>-operator
+>-relational operator
+c-identifier
+;-symbol
+f-identifier
+=-assignment operator
+<<-operator
+<-relational operator
+c-identifier
+;-symbol
+is-keyword
+(-delimiter
+a-identifier
+f-identifier
+,-symbol
+c-identifier
+,-symbol
+is-keyword
+,-symbol
+f-identifier
+,-symbol
+--operator
+,-symbol
+d-identifier
+)-delimiter
+;-symbol
+}-delimiter
+}-delimiter
