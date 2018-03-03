@@ -1,0 +1,27 @@
+Start
+Int func(Int,Int);
+main
+{
+Int a,b,d,f
+Float c
+c=5;
+b=a**2+(6*2+5/3);
+c=#b;
+if(c is Int)
+{
+print(c);
+}
+else
+{
+d=>>c;
+f=<<c;
+print(c,"lies within",f,d);
+}
+func(d,f);
+}
+Int func(Int val,Int avg)
+{
+avg=(avg+val)/2;
+print("average is",avg);
+}
+End
