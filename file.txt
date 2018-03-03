@@ -1,0 +1,22 @@
+Start
+{
+Float a;
+a=4;
+Int b;
+b=a**2+(6*2+5/3);
+Int c;
+c=#b;
+if(c is Int)
+{
+print(c);
+}
+else
+{
+Int d;
+d=>>c;
+Int f;
+f=<<c;
+print(c,"lies within",f,d);
+}
+}
+End
